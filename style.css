@@ -3,7 +3,7 @@ body {
   max-width: 600px;
   margin: auto;
   padding: 20px;
-  background-color: #f4f4f9;
+  background-color: #bdbdbd;
 }
 
 h2 {
@@ -48,4 +48,3 @@ button:hover {
   color: green;
   text-align: center;
 }
-
